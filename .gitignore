@@ -1,0 +1,8 @@
+*
+!.gitignore
+
+!src/
+!*.s
+
+!scripts/
+!*.sh
